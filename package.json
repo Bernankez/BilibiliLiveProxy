@@ -6,13 +6,16 @@
   "description": "",
   "author": "Cole <bernankez@qq.com>",
   "license": "MIT",
-  "homepage": "https://github.com/bernankez/TSTemplate#readme",
+  "homepage": "https://github.com/Bernankez/BilibiliLiveProxy#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bernankez/TSTemplate.git"
+    "url": "git+https://github.com/Bernankez/BilibiliLiveProxy.git"
   },
-  "bugs": "https://github.com/bernankez/TSTemplate/issues",
-  "keywords": [],
+  "bugs": "https://github.com/Bernankez/BilibiliLiveProxy/issues",
+  "keywords": [
+    "bilibili",
+    "bilibili-live"
+  ],
   "sideEffects": false,
   "exports": {
     ".": {
